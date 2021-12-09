@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Main">
+        <file>main.qml</file>
+        <file>Load_Page.qml</file>
+        <file>Main_Page.qml</file>
+    </qresource>
+    <qresource prefix="/Game_Page">
+        <file>Game_Page.qml</file>
+        <file>Input_Grid.qml</file>
+    </qresource>
+</RCC>

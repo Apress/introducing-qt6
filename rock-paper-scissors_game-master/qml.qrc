@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home_Page.qml</file>
+        <file>Game_Page.qml</file>
+        <file>End_Page.qml</file>
+        <file>Player_Phase.qml</file>
+        <file>Result_Phase.qml</file>
+        <file>paperImg.png</file>
+        <file>rockImg.png</file>
+        <file>scissorImg.png</file>
+        <file>drawImg.png</file>
+        <file>losImg.png</file>
+        <file>winImg.png</file>
+    </qresource>
+</RCC>

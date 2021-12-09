@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Load_Page.qml</file>
+        <file>Main_Page.qml</file>
+        <file>AddTask_Drawer.qml</file>
+    </qresource>
+</RCC>
